@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AlterDatabaseOperation","AlterTableOperation"],"struct":["AddColumn","AlterDatabase","AlterTable","KeyValueOption"]};
